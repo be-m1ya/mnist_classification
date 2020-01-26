@@ -2,7 +2,7 @@ from keras import backend as K
 from keras.datasets import mnist
 import matplotlib.pyplot as plt
 import numpy as np
-from model_const_hw import Network
+from model_const import Network
 import time
 import tensorflow as tf
 import keras
